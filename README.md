@@ -3,8 +3,8 @@
 ## Features
 
 Here is the main features of the extension :
-\!\[Sort an array\]\(docs/sort_array.webm\)
-\!\[Sort an Object\]\(docs/sort_obj.webm\)
+![Sort an array](docs/sort_array.webm)
+![Sort an Object](docs/sort_obj.webm)
 
 
 ## Release Notes
